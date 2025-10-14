@@ -23,7 +23,7 @@ const Courses = () => {
         </div>
       </div>
       <div>
-        <h1 class='about-h1 d-flex justify-content-center mt-5'>Examination Pattern (2-Year Diploma Course)</h1>
+        <h1 class='about-h1 d-flex justify-content-center mt-3'>Examination Pattern (2-Year Diploma Course)</h1>
       </div>
       <div class='row courses-row mt-2'>
         <div class='col-12 col-sm-12 col-md-6 col-lg-6 d-flex justify-content-center'>
